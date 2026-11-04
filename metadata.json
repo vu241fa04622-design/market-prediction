@@ -1,0 +1,6 @@
+{
+  "name": "AgriPrice AI – Crop Market Price Prediction & Decision Support",
+  "description": "AI-based crop market price prediction, mandi comparison, seasonal trend forecasting, and smart selling decision support system for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
